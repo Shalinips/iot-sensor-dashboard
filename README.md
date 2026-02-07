@@ -16,11 +16,11 @@ The project focuses on understanding IoT data flow and basic data analysis rathe
 
 
 📂 Project Structure
-IoT_sensor/
-├── dashboard.py # Dashboard for visualizing sensor data
-├── simulate_sensors.py # Script to simulate IoT sensor readings
-├── live_sensor_data.csv # Generated sensor data
-├── iot_sensor_data_analysis.ipynb # Data analysis done using Google Colab
+IoT_sensor
+* dashboard.py # Dashboard for visualizing sensor data
+* simulate_sensors.py # Script to simulate IoT sensor readings
+* live_sensor_data.csv # Generated sensor data
+* iot_sensor_data_analysis.ipynb # Data analysis done using Google Colab
 
 
 ⚙️ How It Works
