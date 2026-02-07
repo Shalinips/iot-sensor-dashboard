@@ -31,9 +31,9 @@ IoT_sensor
 
 
 🚀 How to Run the Project
-1. Clone the repository:https://github.com/Shalinips/iot-sensor-dashboard.git
-2.Navigate to the project folder: cd IoT_sensor
-3.Run the sensor simulation: python simulate_sensors.py
-4.Run the dashboard: python dashboard.py
+1. Clone the repository: https://github.com/Shalinips/iot-sensor-dashboard.git
+2. Navigate to the project folder: cd IoT_sensor
+3. Run the sensor simulation: python simulate_sensors.py
+4. Run the dashboard: python dashboard.py
 
 👤 Author (Shalini P S)
