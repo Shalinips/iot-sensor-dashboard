@@ -5,6 +5,16 @@ This project is an IoT-based data monitoring system that simulates sensor data a
 
 The project focuses on understanding IoT data flow and basic data analysis rather than hardware-level implementation.
 
+📸 Project Screenshots
+
+Sensor Data Visualization
+![Dashboard View](images/result1.png)
+
+ Sensor Data Analysis
+![Analysis Output](images/result2.png)
+
+ Live Sensor Simulation
+![Simulation Output](images/result3.png)
 
 
  🛠️ Technologies Used
